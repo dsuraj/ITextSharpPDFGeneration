@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="ITextSharpPDFGeneration.Default"  %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="ITextSharpPDFGeneration.Default" EnableEventValidation="false"  %>
 
 <!DOCTYPE html>
 

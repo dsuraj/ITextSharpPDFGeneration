@@ -9,7 +9,7 @@ using System.Web.UI.WebControls;
 using iTextSharp.text;
 using iTextSharp.text.pdf;
 using iTextSharp.text.html.simpleparser;
-using iTextSharp.xmp;
+
 
 namespace ITextSharpPDFGeneration
 {
